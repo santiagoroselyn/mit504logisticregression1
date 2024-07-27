@@ -1,0 +1,2 @@
+# mit504logisticregression1
+MIT 504 - TECHNOLOGY IN PROJECT MANAGEMENT
